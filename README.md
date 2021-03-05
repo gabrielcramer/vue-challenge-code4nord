@@ -35,4 +35,10 @@ You are expected to implement the following functionalities:
 4. Create the computed getter function: `search()` > This function filters contacts by their first and last names, email and phone number based on a data variable named query and returns an array of the filtered contacts.
 5. Bind the results of search to be displayed in `app-contacts` component.
 
+## Nice to have:
+* Deploy the application using a free service and provide a public URL
+* Anything you want to add.   
+
+You are welcome to improvise or “fill in the gaps” when you think the specification is not exact enough.
+
 # Good luck!
